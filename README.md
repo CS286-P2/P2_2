@@ -1,3 +1,3 @@
 # P2_2
 
-### Note: Do not add input data to the repository
+### Note: Do not push input data to the repository
