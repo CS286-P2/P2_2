@@ -25,3 +25,5 @@ To install new packages, use the following command.
 pipenv install <package_name>
 ```
 Note: Make sure to push Pipfile and Pipfile.lock whenever a new package is installed.
+
+Save the models to ```/saved_models```.
