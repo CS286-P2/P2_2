@@ -10,6 +10,7 @@ matplotlib = "*"
 nltk = "*"
 spacy = "*"
 jupyter = "*"
+openpyxl = "*"
 
 [dev-packages]
 
